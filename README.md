@@ -168,7 +168,7 @@ The Excel workbook is stored in the "04_Excel" folder.
 An interactive Power BI dashboard was developed to visualize customer churn and retention performance.
 
 Power BI Dashboard
-![Power BI Dashboard](06_Documentation/Customer_Churn_Power_BI_Dashboard.png)
+![Power BI Dashboard](06_Documentation/Customer_Churn_PowerBI_Dashboard.png)
 
 
 Dashboard Components
