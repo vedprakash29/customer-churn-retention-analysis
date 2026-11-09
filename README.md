@@ -154,7 +154,8 @@ Excel Work Performed
 Excel Dashboard
 
 "Customer Churn Excel Dashboard"
-(06_Documentation/Customer_Churn_Excel_Dashboard1.png)
+![Excel Dashboard 1](06_Documentation/Customer_Churn_Excel_Dashboard1.png)
+![Excel Dashboard 2](06_Documentation/Customer_Churn_Excel_Dashboard2.png)
 
 The Excel dashboard provides an interactive overview of customer churn patterns and supports exploration of different customer segments.
 
@@ -167,6 +168,7 @@ The Excel workbook is stored in the "04_Excel" folder.
 An interactive Power BI dashboard was developed to visualize customer churn and retention performance.
 
 Power BI Dashboard
+![Power BI Dashboard](06_Documentation/Customer_Churn_Power_BI_Dashboard.png)
 
 
 Dashboard Components
