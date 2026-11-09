@@ -154,8 +154,7 @@ Excel Work Performed
 Excel Dashboard
 
 "Customer Churn Excel Dashboard"
-https://1drv.ms/i/c/fd58c047b6c341c8/IQAwrq4_hYiuSJ5uvvO3Fh9pAQHbUGLZilPbTitebB1vW4U?e=Q9sJpM
-
+(06_Documentation/Customer_Churn_Excel_Dashboard1.png)
 
 The Excel dashboard provides an interactive overview of customer churn patterns and supports exploration of different customer segments.
 
